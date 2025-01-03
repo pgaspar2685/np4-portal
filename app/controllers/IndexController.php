@@ -22,6 +22,6 @@ class IndexController extends ControllerBase
      */
     public function indexAction()
     {
-        $this->response->redirect('backoffice');
+        // $this->response->redirect('backoffice');
     }
 }
