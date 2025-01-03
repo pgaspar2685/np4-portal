@@ -37,7 +37,7 @@
 								<div class="col-12">
 									<div class="p-5">
 										<div class="text-center">
-											<h1 class="h4 text-gray-900 mb-4">Alvaro Amorim</h1>
+											<h1 class="h4 text-gray-900 mb-4">NP4 Portal</h1>
 										</div>
 		            					{{ content() }}</div>
                             		</div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt">
   <head>
-    <title>Alvaro Amorim</title>
+    <title>NP4Game - Portal</title>
   </head>
   <body>
 	<p>NOT IMPLEMENTED</p>	
