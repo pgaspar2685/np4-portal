@@ -1,0 +1,6 @@
+/app/config/config.php
+/cache
+/vendor
+/.composer
+/*.zip
+/.certs
